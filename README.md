@@ -1,3 +1,5 @@
+# Fork, do not use
+
 # react-native-background-job [![npm version](https://badge.fury.io/js/react-native-background-job.svg)](https://badge.fury.io/js/react-native-background-job) [![CircleCI](https://circleci.com/gh/vikeri/react-native-background-job.svg?style=svg)](https://circleci.com/gh/vikeri/react-native-background-job)
 
 Schedule background jobs that run your JavaScript when your app is in the background or if you feel brave even in foreground.
